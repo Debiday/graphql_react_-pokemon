@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Debiday/graphql_react_pokemon/static/css/main.61a4eb37.chunk.css",
-    "main.js": "/Debiday/graphql_react_pokemon/static/js/main.43b666b0.chunk.js",
-    "main.js.map": "/Debiday/graphql_react_pokemon/static/js/main.43b666b0.chunk.js.map",
-    "runtime-main.js": "/Debiday/graphql_react_pokemon/static/js/runtime-main.e10249bd.js",
-    "runtime-main.js.map": "/Debiday/graphql_react_pokemon/static/js/runtime-main.e10249bd.js.map",
-    "static/js/2.ea56679a.chunk.js": "/Debiday/graphql_react_pokemon/static/js/2.ea56679a.chunk.js",
-    "static/js/2.ea56679a.chunk.js.map": "/Debiday/graphql_react_pokemon/static/js/2.ea56679a.chunk.js.map",
-    "index.html": "/Debiday/graphql_react_pokemon/index.html",
-    "static/css/main.61a4eb37.chunk.css.map": "/Debiday/graphql_react_pokemon/static/css/main.61a4eb37.chunk.css.map",
-    "static/js/2.ea56679a.chunk.js.LICENSE.txt": "/Debiday/graphql_react_pokemon/static/js/2.ea56679a.chunk.js.LICENSE.txt"
+    "main.css": "/graphql_react_pokemon/static/css/main.61a4eb37.chunk.css",
+    "main.js": "/graphql_react_pokemon/static/js/main.43b666b0.chunk.js",
+    "main.js.map": "/graphql_react_pokemon/static/js/main.43b666b0.chunk.js.map",
+    "runtime-main.js": "/graphql_react_pokemon/static/js/runtime-main.04740177.js",
+    "runtime-main.js.map": "/graphql_react_pokemon/static/js/runtime-main.04740177.js.map",
+    "static/js/2.ea56679a.chunk.js": "/graphql_react_pokemon/static/js/2.ea56679a.chunk.js",
+    "static/js/2.ea56679a.chunk.js.map": "/graphql_react_pokemon/static/js/2.ea56679a.chunk.js.map",
+    "index.html": "/graphql_react_pokemon/index.html",
+    "static/css/main.61a4eb37.chunk.css.map": "/graphql_react_pokemon/static/css/main.61a4eb37.chunk.css.map",
+    "static/js/2.ea56679a.chunk.js.LICENSE.txt": "/graphql_react_pokemon/static/js/2.ea56679a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e10249bd.js",
+    "static/js/runtime-main.04740177.js",
     "static/js/2.ea56679a.chunk.js",
     "static/css/main.61a4eb37.chunk.css",
     "static/js/main.43b666b0.chunk.js"
