@@ -115,5 +115,22 @@ body {
 }
 
 @media (max-width: 800px) {
-    
+    .container .pokemon {
+        width: 100%;
+    }
+}
+
+@media (max-width: 400px) {
+    .container .pokemon_attacks, .container .pokemon_meta {
+        flex-wrap: wrap;
+    }
+    .container .pokemon_meta span,
+    .container .pokemon_attacks span,
+    .container .pokemon {
+        width: 100%;
+    }
+
+    .container .pokemon_meta span {
+        margin-bottom: 10px;
+    }
 }
