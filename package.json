@@ -2,7 +2,7 @@
   "name": "pokemon",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Debiday/graphql_react_pokemon",
+  "homepage": "https://debiday.github.io/graphql_react_pokemon",
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
     "@testing-library/jest-dom": "^5.11.4",
